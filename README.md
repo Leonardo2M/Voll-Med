@@ -18,6 +18,8 @@ Este projeto foi desenvolvido com o objetivo de simular o sistema de gerenciamen
 - Mockito
 - MySQL
 - Maven
+- Swagger
+- Migrations
 
 ## Como executar o projeto
 
